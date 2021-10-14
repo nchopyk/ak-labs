@@ -7,6 +7,7 @@ class Calculator
         int Add (double, double);
         int Sub (double, double);
         int Mul (double, double);
+        void swap(int *xp, int *yp);
 };
 
 #endif//CALCULATOR_H
