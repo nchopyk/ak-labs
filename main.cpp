@@ -38,6 +38,7 @@ int main (int argc, char *argv[]){
 		{"ram",		no_argument,		NULL,'r'},
 		{"Value",	required_argument,	NULL,'V'},
 		{"List",	required_argument,	NULL,'L'},
+		{NULL,		0,			NULL, 0},
 	};
 
 	int parse, option_index = -1;
