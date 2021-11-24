@@ -30,7 +30,7 @@ void getRAMInfo(){
 
 int main (int argc, char *argv[]){
 
-	const char* short_options = "V:L:hv:r";
+	const char* short_options = "V:L:hvr";
 
 	const struct option long_options[] = {
 		{"help",	no_argument,		NULL,'h'},
