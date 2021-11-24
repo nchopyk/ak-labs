@@ -6,7 +6,7 @@
 2.  `-v`, `--version` to get current program version
 3.  `-L`, `--List`	to set list
 4.  `-V, --Value` to set value
-5.  `-r`, `--ram` to get amount of RAM available
+5.  `-r`, `--ram` to get available RAM
 
 ## Example of work:
 _Start command:_<br/>
